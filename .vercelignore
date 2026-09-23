@@ -1,0 +1,7 @@
+.env*
+node_modules
+tests
+scripts
+README.md
+.git
+dev-server.cjs
